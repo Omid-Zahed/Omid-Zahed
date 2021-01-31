@@ -4,8 +4,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omid-Zahed&hide=contribs" width="400" height="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid-Zahed&layout=compact"  width="400" height="400">
-</p>
-<img src="https://wakatime.com/share/@omid/9bb637bd-4e77-4f1e-adb1-557bf60da0e5.png" width="800" height="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Omid-Zahed&hide=contribs"  height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid-Zahed&layout=compact"   height="200">
+<img src="https://wakatime.com/share/@omid/9bb637bd-4e77-4f1e-adb1-557bf60da0e5.png"  height="400">
