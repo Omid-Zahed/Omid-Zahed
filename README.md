@@ -7,3 +7,4 @@
 Welcome to my humble abode in the Digital World..
 There are 10 types of people in the world. Those who get Binary and those who don't.
 ```
+You can explore my full coding activity here: https://wakatime.com/@omid
